@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/toy-practice/static/css/main.96bf2a40.chunk.css",
+    "main.js": "/toy-practice/static/js/main.7074e015.chunk.js",
+    "main.js.map": "/toy-practice/static/js/main.7074e015.chunk.js.map",
+    "runtime-main.js": "/toy-practice/static/js/runtime-main.2cbb981b.js",
+    "runtime-main.js.map": "/toy-practice/static/js/runtime-main.2cbb981b.js.map",
+    "static/js/2.7aaef059.chunk.js": "/toy-practice/static/js/2.7aaef059.chunk.js",
+    "static/js/2.7aaef059.chunk.js.map": "/toy-practice/static/js/2.7aaef059.chunk.js.map",
+    "index.html": "/toy-practice/index.html",
+    "precache-manifest.bdcbc960a435deb865950f383c95d94f.js": "/toy-practice/precache-manifest.bdcbc960a435deb865950f383c95d94f.js",
+    "service-worker.js": "/toy-practice/service-worker.js",
+    "static/css/main.96bf2a40.chunk.css.map": "/toy-practice/static/css/main.96bf2a40.chunk.css.map",
+    "static/js/2.7aaef059.chunk.js.LICENSE.txt": "/toy-practice/static/js/2.7aaef059.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2cbb981b.js",
+    "static/js/2.7aaef059.chunk.js",
+    "static/css/main.96bf2a40.chunk.css",
+    "static/js/main.7074e015.chunk.js"
+  ]
+}
